@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Lê Văn Hưng — Full Stack Developer
 
-Hi, I'm **Lê Văn Hưng**, a Full Stack Developer from **Đà Nẵng, Việt Nam** 🇻🇳  
+Hi, I'm **Hung Le**, a Full Stack Developer from **Đa Nang city, Viet Nam** 🇻🇳  
 I specialize in building **scalable and efficient systems** using **Node.js**, **PHP (Laravel)**, **Java**, and modern **JavaScript frameworks** such as **ReactJS**, **VueJS**, and **Next.js**.
 
 My main focus is backend architecture — including **API Gateway**, **microservices**, **Kafka pipelines**, and **database design** with **PostgreSQL**, **MySQL**, and **MongoDB**.  
