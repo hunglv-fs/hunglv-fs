@@ -11,6 +11,8 @@ While my primary focus is backend development, I also have strong experience in 
 💡 I love creating solutions that are clean, maintainable, and performance-oriented.  
 🚀 My goal is to keep growing as a developer and work with passionate teams on impactful projects.
 
+Contact : hungle.tech@gmail.com
+
 ---
 
 ### 🌐 Socials:
