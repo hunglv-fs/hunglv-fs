@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi everyone ヾ(•ω•`)o ✨</h2>
 
-### 👨‍💻 Lê Văn Hưng — Full Stack Developer
+### 👨‍💻 Hung Le — Full Stack Developer
 
 Hi, I'm **Hung Le**, a Full Stack Developer from **Đa Nang city, Viet Nam** 🇻🇳  
 I specialize in building **scalable and efficient systems** using **Node.js**, **PHP (Laravel)**, **Java**, and modern **JavaScript frameworks** such as **ReactJS**, **VueJS**, and **Next.js**.
@@ -63,15 +63,15 @@ If you’re looking for a developer to build, scale, or maintain your project, f
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hunglv-fs&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunglv-fs&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourgithubusername&theme=radical&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=hunglv-fs&theme=radical&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 ---
